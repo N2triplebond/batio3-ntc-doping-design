@@ -1,0 +1,962 @@
+[
+ {
+  "ordering": "Unknown",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.0894060786666655,
+  "energy_above_hull": 0.04802462266666652,
+  "is_stable": false,
+  "nsites": 5,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "BaFeO3",
+  "chemsys": "Ba-Fe-O",
+  "volume": 61.70323615127433,
+  "density": 6.490300417589674,
+  "symmetry": {
+   "crystal_system": "Cubic",
+   "symbol": "Pm-3m",
+   "hall": "-P 4 2 3",
+   "number": 221,
+   "point_group": "m-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabced"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.7417999999999998,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.0799189578571435,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 28,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba(FeO2)2",
+  "chemsys": "Ba-Fe-O",
+  "volume": 442.3569297073226,
+  "density": 4.7000323723764375,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Cmc2_1",
+   "hall": "C 2c -2",
+   "number": 36,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabcis"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.7500000000000002,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.0444854871428575,
+  "energy_above_hull": 0.035433470714286486,
+  "is_stable": false,
+  "nsites": 14,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba(FeO2)2",
+  "chemsys": "Ba-Fe-O",
+  "volume": 242.60191000364992,
+  "density": 4.284986646927439,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_322",
+   "hall": "P 6c 2c",
+   "number": 182,
+   "point_group": "622",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabcnt"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.462779287777777,
+  "energy_above_hull": 0.004177689444452959,
+  "is_stable": false,
+  "nsites": 36,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba3FeO5",
+  "chemsys": "Ba-Fe-O",
+  "volume": 638.7950504112189,
+  "density": 5.696233831288211,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pnma",
+   "hall": "-P 2ac 2n",
+   "number": 62,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabsnl"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.8546838745833323,
+  "energy_above_hull": 0.06989024791665344,
+  "is_stable": false,
+  "nsites": 24,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "BaFe4O7",
+  "chemsys": "Ba-Fe-O",
+  "volume": 316.01447735674276,
+  "density": 4.967756375931925,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3/m",
+   "hall": "-P 6c",
+   "number": 176,
+   "point_group": "6/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabcsft"
+ },
+ {
+  "ordering": "AFM",
+  "band_gap": 1.9953999999999998,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.3742256464285725,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 28,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba2FeO4",
+  "chemsys": "Ba-Fe-O",
+  "volume": 477.32793448863526,
+  "density": 5.489534297278403,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "P2_1/c",
+   "hall": "-P 2ybc",
+   "number": 14,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabevyu"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.1678987241666667,
+  "energy_above_hull": 0.029247849236110568,
+  "is_stable": false,
+  "nsites": 48,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba5Fe5O14",
+  "chemsys": "Ba-Fe-O",
+  "volume": 742.3639200401581,
+  "density": 5.322982474444855,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Cmcm",
+   "hall": "-C 2c 2",
+   "number": 63,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabewoo"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.2163,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -1.7332882315624998,
+  "energy_above_hull": 0.05535915999998853,
+  "is_stable": false,
+  "nsites": 64,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "BaFe12O19",
+  "chemsys": "Ba-Fe-O",
+  "volume": 736.6234424133885,
+  "density": 5.011014694626489,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3/mmc",
+   "hall": "-P 6c 2c",
+   "number": 194,
+   "point_group": "6/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabfnyz"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.351329378660715,
+  "energy_above_hull": 0.728589579196429,
+  "is_stable": false,
+  "nsites": 112,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba(FeO2)2",
+  "chemsys": "Ba-Fe-O",
+  "volume": 1871.2922290159886,
+  "density": 4.4441843075739085,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pnma",
+   "hall": "-P 2ac 2n",
+   "number": 62,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabfujb"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.07789999999999964,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -1.6706956221739133,
+  "energy_above_hull": 0.07351541282608665,
+  "is_stable": false,
+  "nsites": 92,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba(Fe2O3)9",
+  "chemsys": "Ba-Fe-O",
+  "volume": 1040.4493935925823,
+  "density": 5.02581542039127,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3/mmc",
+   "hall": "-P 6c 2c",
+   "number": 194,
+   "point_group": "6/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabggci"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.6633,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -1.9722012580263162,
+  "energy_above_hull": 0.009605172236837767,
+  "is_stable": false,
+  "nsites": 76,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba2Fe6O11",
+  "chemsys": "Ba-Fe-O",
+  "volume": 1128.0587142192055,
+  "density": 4.626406137851825,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pnnm",
+   "hall": "-P 2 2n",
+   "number": 58,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabldnf"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.4173,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.2596152008730175,
+  "energy_above_hull": 0.025426998650793564,
+  "is_stable": false,
+  "nsites": 126,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba2Fe2O5",
+  "chemsys": "Ba-Fe-O",
+  "volume": 1968.1981535928926,
+  "density": 5.508228060959527,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "P2_1/c",
+   "hall": "-P 2ybc",
+   "number": 14,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaablfxw"
+ },
+ {
+  "ordering": "FiM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.546789594615384,
+  "energy_above_hull": 0.215651740512806,
+  "is_stable": false,
+  "nsites": 78,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "BaFe15O23",
+  "chemsys": "Ba-Fe-O",
+  "volume": 851.7717648822382,
+  "density": 5.236342567675665,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "R-3m",
+   "hall": "-R 3 2\"",
+   "number": 166,
+   "point_group": "-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaboedm"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.6764457039999996,
+  "energy_above_hull": 0.4609849973333322,
+  "is_stable": false,
+  "nsites": 20,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "BaFeO3",
+  "chemsys": "Ba-Fe-O",
+  "volume": 415.52427401475444,
+  "density": 3.8551060855234667,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "R3m",
+   "hall": "R 3 -2\"",
+   "number": 160,
+   "point_group": "3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaboedx"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.1979974917857144,
+  "energy_above_hull": 0.038064795739795265,
+  "is_stable": false,
+  "nsites": 28,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba3Fe3O8",
+  "chemsys": "Ba-Fe-O",
+  "volume": 417.46340875804265,
+  "density": 5.6285172048667,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Amm2",
+   "hall": "A 2 -2",
+   "number": 38,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabqxkz"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.2071832439189207,
+  "energy_above_hull": 0.040793076254824534,
+  "is_stable": false,
+  "nsites": 37,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba8Fe8O21",
+  "chemsys": "Ba-Fe-O",
+  "volume": 544.0417550294887,
+  "density": 5.7423486334552205,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P-1",
+   "hall": "-P 1",
+   "number": 2,
+   "point_group": "-1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrcsn"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.2128612765789475,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 57,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba4Fe4O11",
+  "chemsys": "Ba-Fe-O",
+  "volume": 825.3589106888476,
+  "density": 5.725954520838522,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P1",
+   "hall": "P 1",
+   "number": 1,
+   "point_group": "1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrcwu"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -0.9821194990540552,
+  "energy_above_hull": 1.2658568211196908,
+  "is_stable": false,
+  "nsites": 37,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba8Fe8O21",
+  "chemsys": "Ba-Fe-O",
+  "volume": 544.0417408999821,
+  "density": 5.742348782591853,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P-1",
+   "hall": "-P 1",
+   "number": 2,
+   "point_group": "-1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabybmb"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.6662000000000001,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -1.6753983037499995,
+  "energy_above_hull": 0.24917581874998618,
+  "is_stable": false,
+  "nsites": 24,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "BaFe4O7",
+  "chemsys": "Ba-Fe-O",
+  "volume": 385.3641334806176,
+  "density": 4.073765040343883,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3mc",
+   "hall": "P 6c -2c",
+   "number": 186,
+   "point_group": "6mm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaachqwt"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.774158062083334,
+  "energy_above_hull": 0.3333344804166769,
+  "is_stable": false,
+  "nsites": 12,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba2Fe3O7",
+  "chemsys": "Ba-Fe-O",
+  "volume": 182.24600295692395,
+  "density": 5.049468832625796,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pmm2",
+   "hall": "P 2 -2",
+   "number": 25,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaachrat"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.8776000000000002,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.248614224444445,
+  "energy_above_hull": 0.03642797507936457,
+  "is_stable": false,
+  "nsites": 18,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba2Fe2O5",
+  "chemsys": "Ba-Fe-O",
+  "volume": 281.6247534547258,
+  "density": 5.499356433977036,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Ima2",
+   "hall": "I 2 -2a",
+   "number": 46,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacjgzv"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.8573062039393948,
+  "energy_above_hull": 0.08554702818180981,
+  "is_stable": false,
+  "nsites": 33,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba4Fe9O20",
+  "chemsys": "Ba-Fe-O",
+  "volume": 450.4027494767858,
+  "density": 5.057906977337028,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/m",
+   "hall": "-C 2y",
+   "number": 12,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacpheu"
+ },
+ {
+  "ordering": "AFM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.2735795077777783,
+  "energy_above_hull": 0.011462691746031872,
+  "is_stable": false,
+  "nsites": 18,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba2Fe2O5",
+  "chemsys": "Ba-Fe-O",
+  "volume": 257.96300961786386,
+  "density": 6.00378675288642,
+  "symmetry": {
+   "crystal_system": "Tetragonal",
+   "symbol": "P4/mmm",
+   "hall": "-P 4 2",
+   "number": 123,
+   "point_group": "4/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacpijt"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.137430701333332,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 30,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "BaFeO3",
+  "chemsys": "Ba-Fe-O",
+  "volume": 377.7430168733332,
+  "density": 6.361031518317205,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3/mmc",
+   "hall": "-P 6c 2c",
+   "number": 194,
+   "point_group": "6/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacpwhf"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.2136394139285716,
+  "energy_above_hull": 0.02242287359693851,
+  "is_stable": false,
+  "nsites": 56,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba3Fe3O8",
+  "chemsys": "Ba-Fe-O",
+  "volume": 840.9644113923301,
+  "density": 5.588108002588831,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Cmcm",
+   "hall": "-C 2c 2",
+   "number": 63,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacqbga"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.6103,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.285042199523811,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 126,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba2Fe2O5",
+  "chemsys": "Ba-Fe-O",
+  "volume": 1993.0198226307202,
+  "density": 5.439626929971506,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "P2_1/c",
+   "hall": "-P 2ybc",
+   "number": 14,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacqbit"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.4319000000000002,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -1.7558730049285713,
+  "energy_above_hull": 0.050176802928556086,
+  "is_stable": false,
+  "nsites": 140,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba3Fe26O41",
+  "chemsys": "Ba-Fe-O",
+  "volume": 1661.195118115374,
+  "density": 5.037862430934868,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3/mmc",
+   "hall": "-P 6c 2c",
+   "number": 194,
+   "point_group": "6/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacqjfd"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.4122999999999999,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -1.7215101200000003,
+  "energy_above_hull": 0.06527693406249657,
+  "is_stable": false,
+  "nsites": 24,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "BaFeO4",
+  "chemsys": "Ba-Fe-O",
+  "volume": 383.39112335103204,
+  "density": 4.455399638948153,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pnma",
+   "hall": "-P 2ac 2n",
+   "number": 62,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrcol"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.1864,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -1.73286656375,
+  "energy_above_hull": 0.055780827812488276,
+  "is_stable": false,
+  "nsites": 64,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "BaFe12O19",
+  "chemsys": "Ba-Fe-O",
+  "volume": 736.8147803661961,
+  "density": 5.009713421472491,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3mc",
+   "hall": "P 6c -2c",
+   "number": 186,
+   "point_group": "6mm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrxuy"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.892692542297299,
+  "energy_above_hull": 0.3552837778764468,
+  "is_stable": false,
+  "nsites": 37,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba8Fe8O21",
+  "chemsys": "Ba-Fe-O",
+  "volume": 544.0417408999821,
+  "density": 5.742348782591853,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P-1",
+   "hall": "-P 1",
+   "number": 2,
+   "point_group": "-1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaczdlv"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.7905754946153853,
+  "energy_above_hull": 0.1839580528205058,
+  "is_stable": false,
+  "nsites": 13,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba2Fe3O8",
+  "chemsys": "Ba-Fe-O",
+  "volume": 185.1911604736174,
+  "density": 5.112625992296101,
+  "symmetry": {
+   "crystal_system": "Tetragonal",
+   "symbol": "P4/mmm",
+   "hall": "-P 4 2",
+   "number": 123,
+   "point_group": "4/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaadcizz"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.5550670319230766,
+  "energy_above_hull": 0.2539513815384513,
+  "is_stable": false,
+  "nsites": 13,
+  "elements": [
+   "Ba",
+   "Fe",
+   "O"
+  ],
+  "formula_pretty": "Ba(FeO2)4",
+  "chemsys": "Ba-Fe-O",
+  "volume": 211.10643350378135,
+  "density": 3.8440756290481293,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "P-31m",
+   "hall": "-P 3 2",
+   "number": 162,
+   "point_group": "-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaadcjji"
+ }
+]

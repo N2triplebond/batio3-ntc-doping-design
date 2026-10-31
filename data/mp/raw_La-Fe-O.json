@@ -1,0 +1,422 @@
+[
+ {
+  "ordering": "FM",
+  "band_gap": 1.4333999999999998,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.825153782000001,
+  "energy_above_hull": 0.02777202200001483,
+  "is_stable": false,
+  "nsites": 20,
+  "elements": [
+   "Fe",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "LaFeO3",
+  "chemsys": "Fe-La-O",
+  "volume": 251.93610168856503,
+  "density": 6.399934709820336,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pnma",
+   "hall": "-P 2ac 2n",
+   "number": 62,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabhkw"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.8753000000000002,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.722917310000001,
+  "energy_above_hull": 0.13000849400001435,
+  "is_stable": false,
+  "nsites": 5,
+  "elements": [
+   "Fe",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "LaFeO3",
+  "chemsys": "Fe-La-O",
+  "volume": 61.96642318273111,
+  "density": 6.50503336742055,
+  "symmetry": {
+   "crystal_system": "Cubic",
+   "symbol": "Pm-3m",
+   "hall": "-P 4 2 3",
+   "number": 221,
+   "point_group": "m-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabflou"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.018600000000000172,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -1.7839576700000004,
+  "energy_above_hull": 0.08807206812499224,
+  "is_stable": false,
+  "nsites": 64,
+  "elements": [
+   "Fe",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "LaFe12O19",
+  "chemsys": "Fe-La-O",
+  "volume": 724.6643303254009,
+  "density": 5.100945309241623,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Cmcm",
+   "hall": "-C 2c 2",
+   "number": 63,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabgpii"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.1311,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -1.7841531618749995,
+  "energy_above_hull": 0.08787657624999312,
+  "is_stable": false,
+  "nsites": 64,
+  "elements": [
+   "Fe",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "LaFe12O19",
+  "chemsys": "Fe-La-O",
+  "volume": 721.7214900360046,
+  "density": 5.121744561553335,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3/mmc",
+   "hall": "-P 6c 2c",
+   "number": 194,
+   "point_group": "6/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabgsmd"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.7660000000000005,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.5610329185000014,
+  "energy_above_hull": 0.2918928855000136,
+  "is_stable": false,
+  "nsites": 20,
+  "elements": [
+   "Fe",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "LaFeO3",
+  "chemsys": "Fe-La-O",
+  "volume": 333.39107148475915,
+  "density": 4.836286090904453,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pmn2_1",
+   "hall": "P 2ac -2",
+   "number": 31,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabilmi"
+ },
+ {
+  "ordering": "AFM",
+  "band_gap": 1.0986000000000002,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.246115302884616,
+  "energy_above_hull": 0.08727669067308064,
+  "is_stable": false,
+  "nsites": 52,
+  "elements": [
+   "Fe",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "La4FeO8",
+  "chemsys": "Fe-La-O",
+  "volume": 741.2396530875476,
+  "density": 6.62622766448151,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Cmmm",
+   "hall": "-C 2 2",
+   "number": 65,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabqxub"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.9596819682,
+  "energy_above_hull": 0.11945281315000322,
+  "is_stable": false,
+  "nsites": 25,
+  "elements": [
+   "Fe",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "La7(FeO8)2",
+  "chemsys": "Fe-La-O",
+  "volume": 371.1808428435004,
+  "density": 5.9947958811176605,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "Cm",
+   "hall": "C -2y",
+   "number": 8,
+   "point_group": "m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrwes"
+ },
+ {
+  "ordering": "Unknown",
+  "band_gap": 1.9508999999999999,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.8529258040000074,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 10,
+  "elements": [
+   "Fe",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "LaFeO3",
+  "chemsys": "Fe-La-O",
+  "volume": 115.45061726760383,
+  "density": 6.982962239674032,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "R-3c",
+   "hall": "-R 3 2\"c",
+   "number": 167,
+   "point_group": "-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacjjpy"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.658387023888889,
+  "energy_above_hull": 0.17265596416667606,
+  "is_stable": false,
+  "nsites": 9,
+  "elements": [
+   "Fe",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "La2Fe2O5",
+  "chemsys": "Fe-La-O",
+  "volume": 126.6915648560537,
+  "density": 6.153682552056703,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P1",
+   "hall": "P 1",
+   "number": 1,
+   "point_group": "1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaackkwi"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.6390477583333336,
+  "energy_above_hull": 0.19199522972223093,
+  "is_stable": false,
+  "nsites": 9,
+  "elements": [
+   "Fe",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "La2Fe2O5",
+  "chemsys": "Fe-La-O",
+  "volume": 125.29335028494992,
+  "density": 6.222354740889267,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2",
+   "hall": "C 2y",
+   "number": 5,
+   "point_group": "2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaackmcm"
+ },
+ {
+  "ordering": "AFM",
+  "band_gap": 0.8379000000000003,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.7389565533333333,
+  "energy_above_hull": 0.09208643472223166,
+  "is_stable": false,
+  "nsites": 18,
+  "elements": [
+   "Fe",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "La2Fe2O5",
+  "chemsys": "Fe-La-O",
+  "volume": 259.8077443786794,
+  "density": 6.00151218749764,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Ima2",
+   "hall": "I 2 -2a",
+   "number": 46,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaackori"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 2.0848000000000004,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.3584037165,
+  "energy_above_hull": 0.006023645250010645,
+  "is_stable": false,
+  "nsites": 20,
+  "elements": [
+   "Fe",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "La3FeO6",
+  "chemsys": "Fe-La-O",
+  "volume": 315.6763683242629,
+  "density": 5.981521274185473,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Cmc2_1",
+   "hall": "C 2c -2",
+   "number": 36,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacpeoh"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.2424,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.746178183500001,
+  "energy_above_hull": 0.1067476205000144,
+  "is_stable": false,
+  "nsites": 20,
+  "elements": [
+   "Fe",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "LaFeO3",
+  "chemsys": "Fe-La-O",
+  "volume": 302.64898868723105,
+  "density": 5.327540028622933,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pnma",
+   "hall": "-P 2ac 2n",
+   "number": 62,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacpfbe"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.9344000000000001,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.526695770375001,
+  "energy_above_hull": 0.03977142087500418,
+  "is_stable": false,
+  "nsites": 80,
+  "elements": [
+   "Fe",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "La3Fe5O12",
+  "chemsys": "Fe-La-O",
+  "volume": 1072.0046253665878,
+  "density": 5.5016533005402115,
+  "symmetry": {
+   "crystal_system": "Cubic",
+   "symbol": "Ia-3d",
+   "hall": "-I 4bd 2c 3",
+   "number": 230,
+   "point_group": "m-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacqyxn"
+ }
+]

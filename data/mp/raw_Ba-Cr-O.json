@@ -1,0 +1,842 @@
+[
+ {
+  "ordering": "FM",
+  "band_gap": 0.5412000000000003,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.713536345714288,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 28,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba2CrO4",
+  "chemsys": "Ba-Cr-O",
+  "volume": 479.5301900538086,
+  "density": 5.411010872628892,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pnma",
+   "hall": "-P 2ac 2n",
+   "number": 62,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaaazxw"
+ },
+ {
+  "ordering": "Unknown",
+  "band_gap": 2.9695,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.450626380000001,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 24,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "BaCrO4",
+  "chemsys": "Ba-Cr-O",
+  "volume": 373.1959993673475,
+  "density": 4.508611239447996,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pnma",
+   "hall": "-P 2ac 2n",
+   "number": 62,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabbmh"
+ },
+ {
+  "ordering": "Unknown",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.612978695769232,
+  "energy_above_hull": 0.0017917315384750054,
+  "is_stable": false,
+  "nsites": 13,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba3Cr2O8",
+  "chemsys": "Ba-Cr-O",
+  "volume": 206.27617031323595,
+  "density": 5.183995251250244,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "R-3m",
+   "hall": "-R 3 2\"",
+   "number": 166,
+   "point_group": "-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabbzl"
+ },
+ {
+  "ordering": "Unknown",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.728901190000002,
+  "energy_above_hull": 0.0019641088888899816,
+  "is_stable": false,
+  "nsites": 18,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba3CrO5",
+  "chemsys": "Ba-Cr-O",
+  "volume": 315.8843456851464,
+  "density": 5.719120037882077,
+  "symmetry": {
+   "crystal_system": "Tetragonal",
+   "symbol": "I4/mcm",
+   "hall": "-I 4 2c",
+   "number": 140,
+   "point_group": "4/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabckj"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.312614475000001,
+  "energy_above_hull": 0.29483622362500217,
+  "is_stable": false,
+  "nsites": 20,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "BaCrO3",
+  "chemsys": "Ba-Cr-O",
+  "volume": 270.6740991655128,
+  "density": 5.823701517830261,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3/mmc",
+   "hall": "-P 6c 2c",
+   "number": 194,
+   "point_group": "6/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabcnf"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.323764409038463,
+  "energy_above_hull": 0.04332946977564056,
+  "is_stable": false,
+  "nsites": 52,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "BaCr10O15",
+  "chemsys": "Ba-Cr-O",
+  "volume": 590.287509636214,
+  "density": 5.0482749876910455,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Cmce",
+   "hall": "-C 2ac 2",
+   "number": 64,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabcwa"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0026000000000001577,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.4124162456521736,
+  "energy_above_hull": 0.04526351032608744,
+  "is_stable": false,
+  "nsites": 23,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba2Cr7O14",
+  "chemsys": "Ba-Cr-O",
+  "volume": 280.8750501343791,
+  "density": 5.099817118074547,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "R-3m",
+   "hall": "-R 3 2\"",
+   "number": 166,
+   "point_group": "-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabofs"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.5236640840000018,
+  "energy_above_hull": 0.08378661462500236,
+  "is_stable": false,
+  "nsites": 30,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "BaCrO3",
+  "chemsys": "Ba-Cr-O",
+  "volume": 396.4708704169665,
+  "density": 5.963837244170254,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3/mmc",
+   "hall": "-P 6c 2c",
+   "number": 194,
+   "point_group": "6/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabeuew"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 2.2386,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.593856916785712,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 28,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "BaCr2O4",
+  "chemsys": "Ba-Cr-O",
+  "volume": 382.52452444182234,
+  "density": 5.301521261021697,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pmmn",
+   "hall": "P 2 2ab -1ab",
+   "number": 59,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabeumz"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.5257986442857163,
+  "energy_above_hull": 0.0816520543392878,
+  "is_stable": false,
+  "nsites": 70,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "BaCrO3",
+  "chemsys": "Ba-Cr-O",
+  "volume": 937.4401924422201,
+  "density": 5.88532272458163,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3/mmc",
+   "hall": "-P 6c 2c",
+   "number": 194,
+   "point_group": "6/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabfscf"
+ },
+ {
+  "ordering": "AFM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.7133414235714293,
+  "energy_above_hull": 0.0001949221428576564,
+  "is_stable": false,
+  "nsites": 28,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba2CrO4",
+  "chemsys": "Ba-Cr-O",
+  "volume": 498.94047561305496,
+  "density": 5.200506270706463,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pna2_1",
+   "hall": "P 2c -2n",
+   "number": 33,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabfyni"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.4669999999999996,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.099019654375001,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 80,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "BaCr2O7",
+  "chemsys": "Ba-Cr-O",
+  "volume": 1287.0882869870213,
+  "density": 3.6466394236800985,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/c",
+   "hall": "-C 2yc",
+   "number": 15,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabgouo"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.009155232692308,
+  "energy_above_hull": 0.4240824687820446,
+  "is_stable": false,
+  "nsites": 13,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "BaCr4O8",
+  "chemsys": "Ba-Cr-O",
+  "volume": 217.09602247579517,
+  "density": 3.6202602512688524,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "P-31m",
+   "hall": "-P 3 2",
+   "number": 162,
+   "point_group": "-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaachgjo"
+ },
+ {
+  "ordering": "FiM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.185186444615385,
+  "energy_above_hull": 0.3425640705769073,
+  "is_stable": false,
+  "nsites": 13,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba2Cr3O8",
+  "chemsys": "Ba-Cr-O",
+  "volume": 181.74895996068952,
+  "density": 5.103959848322847,
+  "symmetry": {
+   "crystal_system": "Tetragonal",
+   "symbol": "P4/mmm",
+   "hall": "-P 4 2",
+   "number": 123,
+   "point_group": "4/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaachqmm"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.8137999999999999,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -1.991103823333333,
+  "energy_above_hull": 0.5080576152083331,
+  "is_stable": false,
+  "nsites": 24,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "BaCr4O7",
+  "chemsys": "Ba-Cr-O",
+  "volume": 408.9387542149387,
+  "density": 3.713888518862572,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3mc",
+   "hall": "P 6c -2c",
+   "number": 186,
+   "point_group": "6mm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaachqvz"
+ },
+ {
+  "ordering": "FiM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.12702084125,
+  "energy_above_hull": 0.47250015130207235,
+  "is_stable": false,
+  "nsites": 12,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba2Cr3O7",
+  "chemsys": "Ba-Cr-O",
+  "volume": 190.75083883187156,
+  "density": 4.723815480196789,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pmm2",
+   "hall": "P 2 -2",
+   "number": 25,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaachrcl"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.7063999999999999,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.6103509297916676,
+  "energy_above_hull": 0.024076562864581597,
+  "is_stable": false,
+  "nsites": 24,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba5Cr5O14",
+  "chemsys": "Ba-Cr-O",
+  "volume": 360.728454192219,
+  "density": 5.388648445429648,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "P-3m1",
+   "hall": "-P 3 2\"",
+   "number": 164,
+   "point_group": "-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacptdr"
+ },
+ {
+  "ordering": "Unknown",
+  "band_gap": 3.1313000000000004,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.419275130833334,
+  "energy_above_hull": 0.03135124916666765,
+  "is_stable": false,
+  "nsites": 24,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "BaCrO4",
+  "chemsys": "Ba-Cr-O",
+  "volume": 366.2807558013582,
+  "density": 4.5937321320183075,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "P2_12_12_1",
+   "hall": "P 2ac 2ab",
+   "number": 19,
+   "point_group": "222",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacpthe"
+ },
+ {
+  "ordering": "AFM",
+  "band_gap": 0.7611000000000001,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.5986768519047634,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 42,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba5Cr3O13",
+  "chemsys": "Ba-Cr-O",
+  "volume": 775.9772738858148,
+  "density": 4.496492726975497,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "P2_1",
+   "hall": "P 2yb",
+   "number": 4,
+   "point_group": "2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacqhkk"
+ },
+ {
+  "ordering": "FiM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.324298098222223,
+  "energy_above_hull": 0.11125809372222228,
+  "is_stable": false,
+  "nsites": 45,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba4Cr13O28",
+  "chemsys": "Ba-Cr-O",
+  "volume": 556.1178676556013,
+  "density": 4.996209227483268,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "Pm",
+   "hall": "P -2y",
+   "number": 6,
+   "point_group": "m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrxvw"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.0905999999999998,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.613757364230771,
+  "energy_above_hull": 0.0010130630769369375,
+  "is_stable": false,
+  "nsites": 26,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba3Cr2O8",
+  "chemsys": "Ba-Cr-O",
+  "volume": 427.86918123570365,
+  "density": 4.99841883569001,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "P2_1/m",
+   "hall": "-P 2yb",
+   "number": 11,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacukep"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.2902,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.6138031996153868,
+  "energy_above_hull": 0.0009672276923211598,
+  "is_stable": false,
+  "nsites": 26,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba3Cr2O8",
+  "chemsys": "Ba-Cr-O",
+  "volume": 412.7061370763996,
+  "density": 5.182063416478577,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2",
+   "hall": "C 2y",
+   "number": 5,
+   "point_group": "2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacunyq"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.1478000000000002,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.614770427307694,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 26,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba3Cr2O8",
+  "chemsys": "Ba-Cr-O",
+  "volume": 427.50010917916416,
+  "density": 5.002734101767195,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P1",
+   "hall": "P 1",
+   "number": 1,
+   "point_group": "1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacuxfm"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.0741999999999998,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.614496230769233,
+  "energy_above_hull": 0.00027419653847449155,
+  "is_stable": false,
+  "nsites": 26,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba3Cr2O8",
+  "chemsys": "Ba-Cr-O",
+  "volume": 427.94846669040606,
+  "density": 4.997492785146481,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "Cc",
+   "hall": "C -2yc",
+   "number": 9,
+   "point_group": "m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacuxwo"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.0490999999999997,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.6056639457692325,
+  "energy_above_hull": 0.009106481538474931,
+  "is_stable": false,
+  "nsites": 13,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba3Cr2O8",
+  "chemsys": "Ba-Cr-O",
+  "volume": 213.89868086182247,
+  "density": 4.999257980654341,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "Cm",
+   "hall": "C -2y",
+   "number": 8,
+   "point_group": "m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaewlbm"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.6369154389880936,
+  "energy_above_hull": 0.006918657738104628,
+  "is_stable": false,
+  "nsites": 42,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba5Cr3O13",
+  "chemsys": "Ba-Cr-O",
+  "volume": 747.8275635878988,
+  "density": 4.665749616911152,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3",
+   "hall": "P 6c",
+   "number": 173,
+   "point_group": "6",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaafzywj"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.3043,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.6858229469230777,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 26,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba3Cr2O8",
+  "chemsys": "Ba-Cr-O",
+  "volume": 412.8442738562293,
+  "density": 5.180329509534589,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "Cc",
+   "hall": "C -2yc",
+   "number": 9,
+   "point_group": "m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaagbbzl"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.2488999999999999,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.6840822849999992,
+  "energy_above_hull": 0.001740661923079756,
+  "is_stable": false,
+  "nsites": 26,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O"
+  ],
+  "formula_pretty": "Ba3Cr2O8",
+  "chemsys": "Ba-Cr-O",
+  "volume": 412.77254004892933,
+  "density": 5.1812297747478295,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "P2_1",
+   "hall": "P 2yb",
+   "number": 4,
+   "point_group": "2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaagbdbf"
+ }
+]

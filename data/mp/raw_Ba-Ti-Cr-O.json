@@ -1,0 +1,33 @@
+[
+ {
+  "ordering": "AFM",
+  "band_gap": 1.8433126014459127,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.241226292539683,
+  "energy_above_hull": 0.007259511666674712,
+  "is_stable": false,
+  "nsites": 42,
+  "elements": [
+   "Ba",
+   "Cr",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba2Ti4Cr2O13",
+  "chemsys": "Ba-Cr-O-Ti",
+  "volume": 548.559041333592,
+  "density": 4.710800404767917,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/m",
+   "hall": "-C 2y",
+   "number": 12,
+   "point_group": "-1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrxil"
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "ordering": "FM",
+  "band_gap": 1.0830000000000002,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.7771439983333344,
+  "energy_above_hull": 0.0027820470833379574,
+  "is_stable": false,
+  "nsites": 24,
+  "elements": [
+   "Cr",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "LaCrO4",
+  "chemsys": "Cr-La-O",
+  "volume": 328.62959392174895,
+  "density": 5.151940522082949,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "P2_1/c",
+   "hall": "-P 2ybc",
+   "number": 14,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabbhw"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 2.1156999999999995,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.105166520000001,
+  "energy_above_hull": 0.09145682449999981,
+  "is_stable": false,
+  "nsites": 5,
+  "elements": [
+   "Cr",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "LaCrO3",
+  "chemsys": "Cr-La-O",
+  "volume": 60.56654511365902,
+  "density": 6.549860172749681,
+  "symmetry": {
+   "crystal_system": "Cubic",
+   "symbol": "Pm-3m",
+   "hall": "-P 4 2 3",
+   "number": 221,
+   "point_group": "m-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabbwr"
+ },
+ {
+  "ordering": "Unknown",
+  "band_gap": 2.3706000000000005,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.1966233445000007,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 20,
+  "elements": [
+   "Cr",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "LaCrO3",
+  "chemsys": "Cr-La-O",
+  "volume": 236.61766314523803,
+  "density": 6.706217893758887,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pnma",
+   "hall": "-P 2ac 2n",
+   "number": 62,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabcnp"
+ },
+ {
+  "ordering": "Unknown",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.1930958260000017,
+  "energy_above_hull": 0.00352751849999855,
+  "is_stable": false,
+  "nsites": 10,
+  "elements": [
+   "Cr",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "LaCrO3",
+  "chemsys": "Cr-La-O",
+  "volume": 117.86084206710214,
+  "density": 6.731708253283071,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "R-3c",
+   "hall": "-R 3 2\"c",
+   "number": 167,
+   "point_group": "-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabcqn"
+ },
+ {
+  "ordering": "Unknown",
+  "band_gap": 2.1672,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.0240011066666677,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 18,
+  "elements": [
+   "Cr",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "La2CrO6",
+  "chemsys": "Cr-La-O",
+  "volume": 255.6134290078515,
+  "density": 5.5322856122619015,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/c",
+   "hall": "-C 2yc",
+   "number": 15,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabfqqq"
+ },
+ {
+  "ordering": "FiM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.876770862222224,
+  "energy_above_hull": 0.20886289657407708,
+  "is_stable": false,
+  "nsites": 18,
+  "elements": [
+   "Cr",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "La2Cr2O5",
+  "chemsys": "Cr-La-O",
+  "volume": 254.11415655280854,
+  "density": 6.0353754777401845,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Ima2",
+   "hall": "I 2 -2a",
+   "number": 46,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacjgme"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.8820886194444455,
+  "energy_above_hull": 0.20354513935185636,
+  "is_stable": false,
+  "nsites": 18,
+  "elements": [
+   "Cr",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "La2Cr2O5",
+  "chemsys": "Cr-La-O",
+  "volume": 243.85186904528956,
+  "density": 6.2893688492525275,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Ima2",
+   "hall": "I 2 -2a",
+   "number": 46,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacklvv"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 0.8387000000000002,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.7972827477777775,
+  "energy_above_hull": 0.22671835888889014,
+  "is_stable": false,
+  "nsites": 9,
+  "elements": [
+   "Cr",
+   "La",
+   "O"
+  ],
+  "formula_pretty": "La2CrO6",
+  "chemsys": "Cr-La-O",
+  "volume": 118.80309412529404,
+  "density": 5.951555832837473,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "R-3",
+   "hall": "-R 3",
+   "number": 148,
+   "point_group": "-3",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaadbirz"
+ }
+]

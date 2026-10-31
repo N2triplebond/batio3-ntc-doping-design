@@ -50,16 +50,20 @@ src/
   nn_design_v2.py    上一版：元素池含 Cu/Ni/Mn/V
   nn_design.py       初版
   recipe_search.py   暴力枚举基线（用于对照与生成先验表）
+  mp_bridge.py       Materials Project 参考库桥接（零依赖，见 §6）
 data/
   top_recipes.csv    暴力枚举输出的候选表
+  mp/                MP 副本（summary.csv + raw_*.json，可离线复查）
 results/
   nn_proposals_v3.csv   v3 输出（含 Eₐ 先验/修正、±σ、B、失配、容差因子、构型熵、Cr:Fe）
   nn_proposals_v2.csv   v2 输出
   nn_proposals_v1.csv   v1 输出
+  mp_prior_*.csv        候选表 + MP 特征 + S_MP（§6）
 docs/
   算法说明.md         推导、参数、损失与训练细节
   配方汇总_v3.md      v3 结果整理与解读
   配方汇总_v2.md      v2 结果整理
+  MP接入说明.md       MP 数据统计、负结果与三条可用论据
 ```
 
 ## 4 运行
@@ -88,11 +92,34 @@ Top-1：`Ba₀.₈La₀.₂Ti₀.₈Fe₀.₁₉₅Cr₀.₀₀₅O₃`，Eₐ �
 - v3 把元素池收窄到 **{Cr, Fe}** 后，模型偏 Fe（Cr:Fe 中位数 ≈ 0.03），与实验锚定的 **7:3 反向**。原因是先验只含 d 电子计数、不含具体元素化学，比例必须由实验锚定；
 - 训练目标由**合成 oracle**（先验 + 三项交叉项 + 0.012 eV 噪声）给出，闭环验证的是"通路能跑通、约束能守住"，不是真实性能提升。
 
-## 6 环境
+## 6 Materials Project 参考库（可选）
 
-Python 3.9+，仅依赖 `numpy`。无 GPU、无深度学习框架（反向传播与解析梯度手写，见 `src/nn_design_v3.py` 中的 `backward`）。
+需要 MP API key（`export MP_API_KEY=...`，不写入文件）：
 
-## 7 版本演进
+```bash
+python src/mp_bridge.py pull     # 11 个相关化学体系 → data/mp/（223 条）
+python src/mp_bridge.py screen   # 候选 × MP 覆盖度
+python src/mp_bridge.py prior    # 候选表 + MP 特征 + S_MP
+python src/mp_bridge.py poscar   # 7 个参考相 → POSCAR（DFT 初始构型）
+```
+
+定位是 **DFT 数据参考**：参考端元与掺杂相的结构、形成能、带隙，不作为模型输入。
+
+**结论是负结果，先看这里再决定要不要用**：20 条候选全在 `Ba-Cr-Fe-La-O-Ti`，MP 该体系 **0 条记录**，由它派生的 S_MP 极差仅 **0.005**，无区分度 —— 因此 MP 分数**不进总评分、不进 `features()`**，避免制造虚假精度。
+
+它的实际用途是三条论据（详见 `docs/MP接入说明.md`）：
+
+1. **端元可溶性**：Ba₂Ti₄Cr₂O₁₃（E_hull = +7 meV）、Ba₃TiFe₂O₉（E_hull = 0）→ Cr/Fe 单掺热力学站得住；同时 `Ba-Cr-O-Ti` 全库仅 **1 条**，说明 Cr 共掺 BaTiO₃ 有序结构近乎空白，本文 DFT 属增量数据；
+2. **带隙塌缩**：BaTiO₃ 2.29 eV → Ba₃TiFe₂O₉ 0.25 eV、Ba₂Ti₄Cr₂O₁₃ 1.84 eV，Fe 压窄带隙远强于 Cr；
+3. **La 上限旁证**：`Ba-La-O-Ti` 7 条记录全是层状 RP 相（BaLa₂Ti₃O₁₀ 等），无 A 位固溶相 → 支持 x ≤ 0.20。
+
+MP 无输运量（无变温电阻、无 Eₐ、无跳跃势垒），且与本文 U=3 口径不同，只能比趋势、不能比绝对值。
+
+## 7 环境
+
+Python 3.9+，仅依赖 `numpy`。无 GPU、无深度学习框架（反向传播与解析梯度手写，见 `src/nn_design_v3.py` 中的 `backward`）。MP 桥接只用标准库。
+
+## 8 版本演进
 
 | 版本 | 变化 |
 |---|---|
@@ -100,7 +127,7 @@ Python 3.9+，仅依赖 `numpy`。无 GPU、无深度学习框架（反向传播
 | v2 | 采样加入剪枝与电荷重投影；输出不覆盖 v1 |
 | v3 | 元素池收窄至 {Cr, Fe}；对每条候选补 Cr:Fe 比，暴露比例偏差 |
 
-## 8 引用与致谢
+## 9 引用与致谢
 
 基于已发表体系 `xLaCr₀.₇Fe₀.₃O₃-(1−x)BaTiO₃`（J. Alloys Compd. 1037 (2025) 182661）扩展。方法上参考 MatterGen（反向生成）与 MatterSim（小样本微调）的思路。
 

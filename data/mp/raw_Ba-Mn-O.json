@@ -1,0 +1,1232 @@
+[
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.530996554046654,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 34,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "Ba4Mn3O10",
+  "chemsys": "Ba-Mn-O",
+  "volume": 482.74702037097336,
+  "density": 6.013518185261593,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Cmce",
+   "hall": "-C 2ac 2",
+   "number": 64,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabbut"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.9340999999999999,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.4770944452528756,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 15,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMnO3",
+  "chemsys": "Ba-Mn-O",
+  "volume": 196.58101951817102,
+  "density": 6.088581280011918,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "R-3m",
+   "hall": "-R 3 2\"",
+   "number": 166,
+   "point_group": "-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabbwq"
+ },
+ {
+  "ordering": "Unknown",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.470121574586211,
+  "energy_above_hull": 0.006972870666664299,
+  "is_stable": false,
+  "nsites": 10,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMnO3",
+  "chemsys": "Ba-Mn-O",
+  "volume": 138.62812636506428,
+  "density": 5.755924365555609,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3/mmc",
+   "hall": "-P 6c 2c",
+   "number": 194,
+   "point_group": "6/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabciu"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.6908999999999998,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.412622681220161,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 26,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "Ba3Mn2O8",
+  "chemsys": "Ba-Mn-O",
+  "volume": 409.24304517266705,
+  "density": 5.2736638010150445,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "R-3m",
+   "hall": "-R 3 2\"",
+   "number": 166,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabcka"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 2.0603,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.4714873375862094,
+  "energy_above_hull": 0.005607107666667055,
+  "is_stable": false,
+  "nsites": 30,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMnO3",
+  "chemsys": "Ba-Mn-O",
+  "volume": 418.5344476825107,
+  "density": 5.719479111320032,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3cm",
+   "hall": "P 6c -2",
+   "number": 185,
+   "point_group": "6mm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabcnb"
+ },
+ {
+  "ordering": "Unknown",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.2566591643103444,
+  "energy_above_hull": 0.03005770687500764,
+  "is_stable": false,
+  "nsites": 6,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn2O3",
+  "chemsys": "Ba-Mn-O",
+  "volume": 86.43591197380744,
+  "density": 5.671176066137017,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Immm",
+   "hall": "-I 2 2",
+   "number": 71,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabokx"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.4139000000000004,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.5408639759051748,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 24,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "Ba2MnO3",
+  "chemsys": "Ba-Mn-O",
+  "volume": 436.2071226942557,
+  "density": 5.7495929914473285,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/c",
+   "hall": "-C 2yc",
+   "number": 15,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabopn"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 1.8724,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -1.549756681442008,
+  "energy_above_hull": 0.07622151370130048,
+  "is_stable": false,
+  "nsites": 22,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn2O8",
+  "chemsys": "Ba-Mn-O",
+  "volume": 344.89941304236066,
+  "density": 3.6128296864364624,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Fddd",
+   "hall": "F 2 2 -1d",
+   "number": 70,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaaboyr"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.189844615879312,
+  "energy_above_hull": 0.05566252852080211,
+  "is_stable": false,
+  "nsites": 20,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn3O6",
+  "chemsys": "Ba-Mn-O",
+  "volume": 246.90208425364344,
+  "density": 5.355345084829901,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/m",
+   "hall": "-C 2y",
+   "number": 12,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabspt"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.6548000000000003,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.5088316588761197,
+  "energy_above_hull": 0.002201151172838145,
+  "is_stable": false,
+  "nsites": 54,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "Ba6Mn5O16",
+  "chemsys": "Ba-Mn-O",
+  "volume": 762.3410893992767,
+  "density": 5.901392524990083,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Cmce",
+   "hall": "-C 2ac 2",
+   "number": 64,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabtsh"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.7543000000000002,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.463867094086209,
+  "energy_above_hull": 0.013227351166666068,
+  "is_stable": false,
+  "nsites": 20,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMnO3",
+  "chemsys": "Ba-Mn-O",
+  "volume": 257.2383259452137,
+  "density": 6.203842350194257,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3/mmc",
+   "hall": "-P 6c 2c",
+   "number": 194,
+   "point_group": "6/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabzxe"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.5072,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.5342444204885073,
+  "energy_above_hull": 0.006619555416667033,
+  "is_stable": false,
+  "nsites": 24,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "Ba2MnO3",
+  "chemsys": "Ba-Mn-O",
+  "volume": 445.1148017282019,
+  "density": 5.634531598869977,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "Cc",
+   "hall": "C -2yc",
+   "number": 9,
+   "point_group": "m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabcsjp"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.103919546671089,
+  "energy_above_hull": 0.06081542939743656,
+  "is_stable": false,
+  "nsites": 13,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn4O8",
+  "chemsys": "Ba-Mn-O",
+  "volume": 151.33283387598092,
+  "density": 5.322605403545476,
+  "symmetry": {
+   "crystal_system": "Tetragonal",
+   "symbol": "I4/m",
+   "hall": "-I 4",
+   "number": 87,
+   "point_group": "4/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabeunm"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 1.9074,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -1.5119631328056444,
+  "energy_above_hull": 0.11401506233766323,
+  "is_stable": false,
+  "nsites": 22,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn2O8",
+  "chemsys": "Ba-Mn-O",
+  "volume": 399.7444559955268,
+  "density": 3.117148517221451,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Fddd",
+   "hall": "F 2 2 -1d",
+   "number": 70,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabfnsl"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.7427999999999999,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.4758738855862084,
+  "energy_above_hull": 0.0012205596666667873,
+  "is_stable": false,
+  "nsites": 40,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMnO3",
+  "chemsys": "Ba-Mn-O",
+  "volume": 531.0888445860152,
+  "density": 6.009789272964193,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3/mmc",
+   "hall": "-P 6c 2c",
+   "number": 194,
+   "point_group": "6/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabfstr"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.8679000000000001,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.4753127117862084,
+  "energy_above_hull": 0.0017817334666663243,
+  "is_stable": false,
+  "nsites": 25,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMnO3",
+  "chemsys": "Ba-Mn-O",
+  "volume": 334.7872385437482,
+  "density": 5.958508258609489,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "R-3m",
+   "hall": "-R 3 2\"",
+   "number": 166,
+   "point_group": "-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabmkwh"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.8045147253088403,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.4789678750931974,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 37,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "Ba8Mn8O21",
+  "chemsys": "Ba-Mn-O",
+  "volume": 533.2402162301847,
+  "density": 5.836073612089998,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "Pm",
+   "hall": "P -2y",
+   "number": 6,
+   "point_group": "m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabnnym"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.5595608368472917,
+  "energy_above_hull": 0.021058589761906,
+  "is_stable": false,
+  "nsites": 7,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "Ba2MnO4",
+  "chemsys": "Ba-Mn-O",
+  "volume": 109.58221475993152,
+  "density": 5.964206728953884,
+  "symmetry": {
+   "crystal_system": "Tetragonal",
+   "symbol": "I4/mmm",
+   "hall": "-I 4 2",
+   "number": 139,
+   "point_group": "4/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabqwkg"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.8081,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.4718801232528773,
+  "energy_above_hull": 0.005214321999998717,
+  "is_stable": false,
+  "nsites": 30,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMnO3",
+  "chemsys": "Ba-Mn-O",
+  "volume": 394.21434393129783,
+  "density": 6.0723285891016925,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P-6m2",
+   "hall": "P -6 2",
+   "number": 187,
+   "point_group": "-6m2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrcor"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.0222000000000002,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.478721141027299,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 48,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "Ba5Mn5O14",
+  "chemsys": "Ba-Mn-O",
+  "volume": 665.8734751937594,
+  "density": 5.911828508825866,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Ama2",
+   "hall": "A 2 -2a",
+   "number": 40,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrfvy"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 1.037,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.471067148678162,
+  "energy_above_hull": 0.007028340128204746,
+  "is_stable": false,
+  "nsites": 39,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "Ba8Mn8O23",
+  "chemsys": "Ba-Mn-O",
+  "volume": 541.1658011578985,
+  "density": 5.848788681088863,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Amm2",
+   "hall": "A 2 -2",
+   "number": 38,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrglu"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.39990000000000014,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.1361962333377553,
+  "energy_above_hull": 0.028538742730770394,
+  "is_stable": false,
+  "nsites": 78,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn4O8",
+  "chemsys": "Ba-Mn-O",
+  "volume": 987.6430486039638,
+  "density": 4.893376977405154,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P-1",
+   "hall": "-P 1",
+   "number": 2,
+   "point_group": "-1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrpmn"
+ },
+ {
+  "ordering": "FiM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.343354991586208,
+  "energy_above_hull": 0.13373945366666717,
+  "is_stable": false,
+  "nsites": 5,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMnO3",
+  "chemsys": "Ba-Mn-O",
+  "volume": 65.61237804092859,
+  "density": 6.080659123483146,
+  "symmetry": {
+   "crystal_system": "Cubic",
+   "symbol": "Pm-3m",
+   "hall": "-P 4 2 3",
+   "number": 221,
+   "point_group": "m-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacfwfs"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.816947617440319,
+  "energy_above_hull": 0.34778735862820653,
+  "is_stable": false,
+  "nsites": 13,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn4O8",
+  "chemsys": "Ba-Mn-O",
+  "volume": 214.57058548571865,
+  "density": 3.7539393272325174,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "P-31m",
+   "hall": "-P 3 2",
+   "number": 162,
+   "point_group": "-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaachgkm"
+ },
+ {
+  "ordering": "FiM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.032301566445624,
+  "energy_above_hull": 0.2962547699267395,
+  "is_stable": false,
+  "nsites": 13,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "Ba2Mn3O8",
+  "chemsys": "Ba-Mn-O",
+  "volume": 187.20935367737397,
+  "density": 5.033375840669991,
+  "symmetry": {
+   "crystal_system": "Tetragonal",
+   "symbol": "P4/mmm",
+   "hall": "-P 4 2",
+   "number": 123,
+   "point_group": "4/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaachqoi"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.8379061097270117,
+  "energy_above_hull": 0.3902886327777866,
+  "is_stable": false,
+  "nsites": 24,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn4O7",
+  "chemsys": "Ba-Mn-O",
+  "volume": 410.3638227401436,
+  "density": 3.7962280658258933,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3mc",
+   "hall": "P 6c -2c",
+   "number": 186,
+   "point_group": "6mm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaachrbg"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.1079854540660925,
+  "energy_above_hull": 0.295021544722216,
+  "is_stable": false,
+  "nsites": 12,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "Ba2Mn3O7",
+  "chemsys": "Ba-Mn-O",
+  "volume": 194.79180994326708,
+  "density": 4.7010570384584645,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pmm2",
+   "hall": "P 2 -2",
+   "number": 25,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaachrbj"
+ },
+ {
+  "ordering": "FiM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.0492050007327602,
+  "energy_above_hull": 0.1865150175892829,
+  "is_stable": false,
+  "nsites": 8,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn2O5",
+  "chemsys": "Ba-Mn-O",
+  "volume": 97.72022226993786,
+  "density": 5.560041925593192,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Cmmm",
+   "hall": "-C 2 2",
+   "number": 65,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaackhyw"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.440090165095787,
+  "energy_above_hull": 0.02729060750000123,
+  "is_stable": false,
+  "nsites": 18,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "Ba2Mn2O5",
+  "chemsys": "Ba-Mn-O",
+  "volume": 280.8209019299677,
+  "density": 5.493646492945765,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Ima2",
+   "hall": "I 2 -2a",
+   "number": 46,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaackpca"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.1047493812864726,
+  "energy_above_hull": 0.05998559478205223,
+  "is_stable": false,
+  "nsites": 13,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn4O8",
+  "chemsys": "Ba-Mn-O",
+  "volume": 151.52027909876244,
+  "density": 5.316020826473815,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/m",
+   "hall": "-C 2y",
+   "number": 12,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacphbz"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.0207,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -1.5138278573510993,
+  "energy_above_hull": 0.11215033779220906,
+  "is_stable": false,
+  "nsites": 22,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn2O8",
+  "chemsys": "Ba-Mn-O",
+  "volume": 436.48953107529195,
+  "density": 2.8547370545274617,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Fddd",
+   "hall": "F 2 2 -1d",
+   "number": 70,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacptxj"
+ },
+ {
+  "ordering": "AFM",
+  "band_gap": 1.2781000000000002,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.3755214196390106,
+  "energy_above_hull": 0.03826900390625454,
+  "is_stable": false,
+  "nsites": 64,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMnO2",
+  "chemsys": "Ba-Mn-O",
+  "volume": 1195.5827379668285,
+  "density": 4.983663474459448,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pnma",
+   "hall": "-P 2ac 2n",
+   "number": 62,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacqgyj"
+ },
+ {
+  "ordering": "Unknown",
+  "band_gap": 1.8948,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.469468070586209,
+  "energy_above_hull": 0.007626374666666713,
+  "is_stable": false,
+  "nsites": 20,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMnO3",
+  "chemsys": "Ba-Mn-O",
+  "volume": 276.8088065448443,
+  "density": 5.765228500175818,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3mc",
+   "hall": "P 6c -2c",
+   "number": 186,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacqpbc"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.054014496321841,
+  "energy_above_hull": 0.010230874722219951,
+  "is_stable": false,
+  "nsites": 24,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMnO4",
+  "chemsys": "Ba-Mn-O",
+  "volume": 367.53171062577576,
+  "density": 4.631264422901012,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pnma",
+   "hall": "-P 2ac 2n",
+   "number": 62,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrcod"
+ },
+ {
+  "ordering": "AFM",
+  "band_gap": 1.1159,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.5886221125478937,
+  "energy_above_hull": 0.038863360370368305,
+  "is_stable": false,
+  "nsites": 18,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "Ba3MnO5",
+  "chemsys": "Ba-Mn-O",
+  "volume": 325.41188501606615,
+  "density": 5.5816981613739785,
+  "symmetry": {
+   "crystal_system": "Tetragonal",
+   "symbol": "I4/mcm",
+   "hall": "-I 4 2c",
+   "number": 140,
+   "point_group": "4/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrcrl"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.165516468803246,
+  "energy_above_hull": 0.13588406862745117,
+  "is_stable": false,
+  "nsites": 17,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "Ba2Mn5O10",
+  "chemsys": "Ba-Mn-O",
+  "volume": 214.8841446900137,
+  "density": 5.481483230836086,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/m",
+   "hall": "-C 2y",
+   "number": 12,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrcwb"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.9029803565517247,
+  "energy_above_hull": 0.447107037619058,
+  "is_stable": false,
+  "nsites": 28,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn2O4",
+  "chemsys": "Ba-Mn-O",
+  "volume": 545.5487760728662,
+  "density": 3.7889254027092916,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Fddd",
+   "hall": "F 2 2 -1d",
+   "number": 70,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrdkh"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.0791511303992753,
+  "energy_above_hull": 0.0005605105833321744,
+  "is_stable": false,
+  "nsites": 38,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn6O12",
+  "chemsys": "Ba-Mn-O",
+  "volume": 422.54500797171465,
+  "density": 5.179135921528519,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/m",
+   "hall": "-C 2y",
+   "number": 12,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrwsj"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.799440219391481,
+  "energy_above_hull": 0.22330236340336285,
+  "is_stable": false,
+  "nsites": 17,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn5O11",
+  "chemsys": "Ba-Mn-O",
+  "volume": 200.95787163370548,
+  "density": 4.858802533161377,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "Cm",
+   "hall": "C -2y",
+   "number": 8,
+   "point_group": "m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrwxk"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.7729055288933515,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.035499506737931,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 50,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn8O16",
+  "chemsys": "Ba-Mn-O",
+  "volume": 557.3668269609952,
+  "density": 4.962380260293079,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "P2/c",
+   "hall": "-P 2yc",
+   "number": 13,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrxsw"
+ },
+ {
+  "ordering": "FiM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.2971647223510971,
+  "energy_above_hull": 0.32881347279221096,
+  "is_stable": false,
+  "nsites": 22,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O"
+  ],
+  "formula_pretty": "BaMn2O8",
+  "chemsys": "Ba-Mn-O",
+  "volume": 330.843762828885,
+  "density": 3.76631805786354,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Fddd",
+   "hall": "F 2 2 -1d",
+   "number": 70,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacsmfs"
+ }
+]

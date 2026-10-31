@@ -1,0 +1,1592 @@
+[
+ {
+  "ordering": "Unknown",
+  "band_gap": 1.6675,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.471960876666666,
+  "energy_above_hull": 0.007466672000001395,
+  "is_stable": false,
+  "nsites": 10,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTiO3",
+  "chemsys": "Ba-O-Ti",
+  "volume": 128.738833485449,
+  "density": 6.015663621981991,
+  "symmetry": {
+   "crystal_system": "Cubic",
+   "symbol": "Pm-3m",
+   "hall": "-P 4 2 3",
+   "number": 221,
+   "point_group": "m-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaaaeli"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.7041999999999997,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.509019186666668,
+  "energy_above_hull": 0.010130699062482762,
+  "is_stable": false,
+  "nsites": 28,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi4O9",
+  "chemsys": "Ba-O-Ti",
+  "volume": 350.987551179767,
+  "density": 4.4735808978988985,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pmmn",
+   "hall": "P 2 2ab -1ab",
+   "number": 59,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaaaesd"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 4.1439,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.3807334583333346,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 28,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba2TiO4",
+  "chemsys": "Ba-O-Ti",
+  "volume": 504.5528493342891,
+  "density": 5.0883013504816885,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "P2_1/c",
+   "hall": "-P 2ybc",
+   "number": 14,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaaafar"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 1.8218,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.501110997083334,
+  "energy_above_hull": 0.022967943125062007,
+  "is_stable": false,
+  "nsites": 24,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi2O5",
+  "chemsys": "Ba-O-Ti",
+  "volume": 315.8104194178934,
+  "density": 4.938200336735028,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/m",
+   "hall": "-C 2y",
+   "number": 12,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaaafvr"
+ },
+ {
+  "ordering": "Unknown",
+  "band_gap": 2.5526999999999997,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.4793865586666675,
+  "energy_above_hull": 4.0989999998686244e-05,
+  "is_stable": false,
+  "nsites": 5,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTiO3",
+  "chemsys": "Ba-O-Ti",
+  "volume": 65.6356490658401,
+  "density": 5.899610412612441,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "R3m",
+   "hall": "R 3 -2\"",
+   "number": 160,
+   "point_group": "3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaaahlc"
+ },
+ {
+  "ordering": "Unknown",
+  "band_gap": 2.2933999999999997,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.479427548666667,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 5,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTiO3",
+  "chemsys": "Ba-O-Ti",
+  "volume": 65.57310741671338,
+  "density": 5.905237282818014,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Amm2",
+   "hall": "A 2 -2",
+   "number": 38,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaaaiof"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 1.7260999999999997,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.476808106666666,
+  "energy_above_hull": 0.002619442000000305,
+  "is_stable": false,
+  "nsites": 30,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTiO3",
+  "chemsys": "Ba-O-Ti",
+  "volume": 400.2367535081449,
+  "density": 5.804935532881183,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3/mmc",
+   "hall": "-P 6c 2c",
+   "number": 194,
+   "point_group": "6/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaaaiuf"
+ },
+ {
+  "ordering": "Unknown",
+  "band_gap": 1.7236999999999996,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.477470974666665,
+  "energy_above_hull": 0.0019565740000011544,
+  "is_stable": false,
+  "nsites": 5,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTiO3",
+  "chemsys": "Ba-O-Ti",
+  "volume": 65.32709969254628,
+  "density": 5.927475128848985,
+  "symmetry": {
+   "crystal_system": "Tetragonal",
+   "symbol": "P4mm",
+   "hall": "P 4 -2",
+   "number": 99,
+   "point_group": "4mm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaaaiwg"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.4832284259523814,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 21,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba2Ti6O13",
+  "chemsys": "Ba-O-Ti",
+  "volume": 268.70611161487625,
+  "density": 4.757476506786547,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/m",
+   "hall": "-C 2y",
+   "number": 12,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaaalll"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.5000529194186054,
+  "energy_above_hull": 0.002849577488344579,
+  "is_stable": false,
+  "nsites": 86,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba4Ti12O27",
+  "chemsys": "Ba-O-Ti",
+  "volume": 1098.5448526790317,
+  "density": 4.703119128827287,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/m",
+   "hall": "-C 2y",
+   "number": 12,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaaaxif"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.671967684666668,
+  "energy_above_hull": 1.8074598639999984,
+  "is_stable": false,
+  "nsites": 5,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTiO3",
+  "chemsys": "Ba-O-Ti",
+  "volume": 85.16422489125648,
+  "density": 4.546800715462877,
+  "symmetry": {
+   "crystal_system": "Tetragonal",
+   "symbol": "P4/mmm",
+   "hall": "-P 4 2",
+   "number": 123,
+   "point_group": "4/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabdow"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.6228000000000002,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.5093987886274496,
+  "energy_above_hull": 0.007793255845589542,
+  "is_stable": false,
+  "nsites": 68,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi5O11",
+  "chemsys": "Ba-O-Ti",
+  "volume": 831.3044139307269,
+  "density": 4.415739254939565,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "P2_1/c",
+   "hall": "-P 2ybc",
+   "number": 14,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabpcw"
+ },
+ {
+  "ordering": "FiM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.362688891846837,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 74,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba2Ti13O22",
+  "chemsys": "Ba-O-Ti",
+  "volume": 827.4225799257893,
+  "density": 5.012835974868376,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Cmce",
+   "hall": "-C 2ac 2",
+   "number": 64,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabquf"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.5294999999999996,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.5212743517730516,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 94,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba4Ti13O30",
+  "chemsys": "Ba-O-Ti",
+  "volume": 1225.1215865279116,
+  "density": 4.477076553645563,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Cmce",
+   "hall": "-C 2ac 2",
+   "number": 64,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabriw"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.3025927289285724,
+  "energy_above_hull": 0.045849021785702604,
+  "is_stable": false,
+  "nsites": 14,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba3Ti3O8",
+  "chemsys": "Ba-O-Ti",
+  "volume": 202.21122448635964,
+  "density": 5.613470024259262,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/m",
+   "hall": "-C 2y",
+   "number": 12,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabxih"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 1.8809999999999998,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.220891953333335,
+  "energy_above_hull": 0.15984150500000016,
+  "is_stable": false,
+  "nsites": 7,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba2TiO4",
+  "chemsys": "Ba-O-Ti",
+  "volume": 139.3514790498418,
+  "density": 4.6058300962467635,
+  "symmetry": {
+   "crystal_system": "Tetragonal",
+   "symbol": "P4/mmm",
+   "hall": "-P 4 2",
+   "number": 123,
+   "point_group": "4/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaacboc"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.6401000000000003,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.502552297000001,
+  "energy_above_hull": 0.013269258593750166,
+  "is_stable": false,
+  "nsites": 40,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi6O13",
+  "chemsys": "Ba-O-Ti",
+  "volume": 462.19227179220894,
+  "density": 4.5449750185020985,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P-1",
+   "hall": "-P 1",
+   "number": 2,
+   "point_group": "-1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabcsgf"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -0.40193546066666813,
+  "energy_above_hull": 3.0774920879999987,
+  "is_stable": false,
+  "nsites": 5,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTiO3",
+  "chemsys": "Ba-O-Ti",
+  "volume": 100.48917348467371,
+  "density": 3.853397786443776,
+  "symmetry": {
+   "crystal_system": "Cubic",
+   "symbol": "Pm-3m",
+   "hall": "-P 4 2 3",
+   "number": 221,
+   "point_group": "m-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabcsqd"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.0394961671568637,
+  "energy_above_hull": 0.10385415156862088,
+  "is_stable": false,
+  "nsites": 51,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba4Ti4O9",
+  "chemsys": "Ba-O-Ti",
+  "volume": 798.5650648974135,
+  "density": 5.519385506253749,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/m",
+   "hall": "-C 2y",
+   "number": 12,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabefil"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.477409532248679,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 63,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba3Ti20O40",
+  "chemsys": "Ba-O-Ti",
+  "volume": 763.1799530394599,
+  "density": 4.371860340769769,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/m",
+   "hall": "-C 2y",
+   "number": 12,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabeghj"
+ },
+ {
+  "ordering": "Unknown",
+  "band_gap": 4.2635,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.3793515198809536,
+  "energy_above_hull": 0.001381938452380993,
+  "is_stable": false,
+  "nsites": 84,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba2TiO4",
+  "chemsys": "Ba-O-Ti",
+  "volume": 1500.56105940864,
+  "density": 5.132714050973989,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pna2_1",
+   "hall": "P 2c -2n",
+   "number": 33,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabfoib"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.1471,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.522014476041729,
+  "energy_above_hull": 0.002064464166666724,
+  "is_stable": false,
+  "nsites": 24,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi2O5",
+  "chemsys": "Ba-O-Ti",
+  "volume": 308.4075062318844,
+  "density": 5.056735286920331,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2",
+   "hall": "C 2y",
+   "number": 5,
+   "point_group": "2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabfqli"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.6199000000000003,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.512478105502647,
+  "energy_above_hull": 0.009508522698428834,
+  "is_stable": false,
+  "nsites": 126,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba6Ti17O40",
+  "chemsys": "Ba-O-Ti",
+  "volume": 1646.0973491053373,
+  "density": 4.595319525830145,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/c",
+   "hall": "-C 2yc",
+   "number": 15,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabfror"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.0811,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.4781307183333334,
+  "energy_above_hull": 0.0012968303333327214,
+  "is_stable": false,
+  "nsites": 30,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTiO3",
+  "chemsys": "Ba-O-Ti",
+  "volume": 402.91942798108107,
+  "density": 5.766285740169198,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "C222_1",
+   "hall": "C 2c 2",
+   "number": 20,
+   "point_group": "222",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabftqj"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.8033,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.5240789402083967,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 32,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi2O5",
+  "chemsys": "Ba-O-Ti",
+  "volume": 443.41902471964363,
+  "density": 4.6894247730271355,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Pnma",
+   "hall": "-P 2ac 2n",
+   "number": 62,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabftrr"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.7429,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.511506568225807,
+  "energy_above_hull": 0.006569662620950822,
+  "is_stable": false,
+  "nsites": 124,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba2Ti9O20",
+  "chemsys": "Ba-O-Ti",
+  "volume": 1532.6309130152902,
+  "density": 4.444100588258672,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P-1",
+   "hall": "-P 1",
+   "number": 2,
+   "point_group": "-1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabfxmp"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 0.4807,
+  "is_gap_direct": true,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.7651549506666675,
+  "energy_above_hull": 0.7142725979999991,
+  "is_stable": false,
+  "nsites": 5,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTiO3",
+  "chemsys": "Ba-O-Ti",
+  "volume": 111.54340845946945,
+  "density": 3.4715162824534698,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Amm2",
+   "hall": "A 2 -2",
+   "number": 38,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabkrkj"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.4814513164666665,
+  "energy_above_hull": 0.0011290395999665748,
+  "is_stable": false,
+  "nsites": 25,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi8O16",
+  "chemsys": "Ba-O-Ti",
+  "volume": 311.95809510454,
+  "density": 4.131962331831871,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P1",
+   "hall": "P 1",
+   "number": 1,
+   "point_group": "1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabqvrw"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.4703417221052626,
+  "energy_above_hull": 0.002625614254865738,
+  "is_stable": false,
+  "nsites": 38,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi6O12",
+  "chemsys": "Ba-O-Ti",
+  "volume": 459.8743213190496,
+  "density": 4.452340512531568,
+  "symmetry": {
+   "crystal_system": "Tetragonal",
+   "symbol": "I4/m",
+   "hall": "-I 4",
+   "number": 87,
+   "point_group": "4/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrcdi"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.477746580151515,
+  "energy_above_hull": 0.0011319361363639757,
+  "is_stable": false,
+  "nsites": 88,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi7O14",
+  "chemsys": "Ba-O-Ti",
+  "volume": 1093.0293473603456,
+  "density": 4.2318308093156904,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P-1",
+   "hall": "-P 1",
+   "number": 2,
+   "point_group": "-1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrcfq"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.4592473281782943,
+  "energy_above_hull": 0.0339970215116292,
+  "is_stable": false,
+  "nsites": 86,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi14O28",
+  "chemsys": "Ba-O-Ti",
+  "volume": 1097.0960640703893,
+  "density": 3.800434352796173,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P-1",
+   "hall": "-P 1",
+   "number": 2,
+   "point_group": "-1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrcyh"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.482580356066667,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "nsites": 50,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi8O16",
+  "chemsys": "Ba-O-Ti",
+  "volume": 621.9303909380684,
+  "density": 4.14515552500261,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2",
+   "hall": "C 2y",
+   "number": 5,
+   "point_group": "2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrfnd"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.7188,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.489260687235773,
+  "energy_above_hull": 0.03288924336587229,
+  "is_stable": false,
+  "nsites": 41,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba4Ti11O26",
+  "chemsys": "Ba-O-Ti",
+  "volume": 555.0626301441964,
+  "density": 4.462993666534412,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P1",
+   "hall": "P 1",
+   "number": 1,
+   "point_group": "1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrgju"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.47518541155914,
+  "energy_above_hull": 0.012325608225806306,
+  "is_stable": false,
+  "nsites": 62,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi10O20",
+  "chemsys": "Ba-O-Ti",
+  "volume": 778.6409897123592,
+  "density": 3.9921855667969477,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P-1",
+   "hall": "-P 1",
+   "number": 2,
+   "point_group": "-1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrppq"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.5740000000000003,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.4820912277477474,
+  "energy_above_hull": 0.034360011925677725,
+  "is_stable": false,
+  "nsites": 37,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba2Ti11O24",
+  "chemsys": "Ba-O-Ti",
+  "volume": 466.2252856378851,
+  "density": 4.221204015516077,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P1",
+   "hall": "P 1",
+   "number": 1,
+   "point_group": "1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrsqf"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.271352743283389,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.3899852647222226,
+  "energy_above_hull": 0.031870731249986406,
+  "is_stable": false,
+  "nsites": 12,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba3Ti2O7",
+  "chemsys": "Ba-O-Ti",
+  "volume": 177.7591409610289,
+  "density": 5.789035597653305,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Fmm2",
+   "hall": "F 2 -2",
+   "number": 42,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrvfy"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.1142,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.416439187647061,
+  "energy_above_hull": 0.022349617941161526,
+  "is_stable": false,
+  "nsites": 17,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba4Ti3O10",
+  "chemsys": "Ba-O-Ti",
+  "volume": 246.46560435059266,
+  "density": 5.746354576456213,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Fmm2",
+   "hall": "F 2 -2",
+   "number": 42,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrwvd"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.4594747109689923,
+  "energy_above_hull": 0.03376963872092986,
+  "is_stable": false,
+  "nsites": 86,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi14O28",
+  "chemsys": "Ba-O-Ti",
+  "volume": 1098.2393326066522,
+  "density": 3.7964780958213185,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P-1",
+   "hall": "-P 1",
+   "number": 2,
+   "point_group": "-1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabrzrv"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.2142000000000004,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.4946505813821145,
+  "energy_above_hull": 0.02749934921953212,
+  "is_stable": false,
+  "nsites": 82,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba4Ti11O26",
+  "chemsys": "Ba-O-Ti",
+  "volume": 1099.2371166404748,
+  "density": 4.50720043084882,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/m",
+   "hall": "-C 2y",
+   "number": 12,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaabsbtq"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -1.6727720066666685,
+  "energy_above_hull": 1.806655541999998,
+  "is_stable": false,
+  "nsites": 5,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTiO3",
+  "chemsys": "Ba-O-Ti",
+  "volume": 85.45832403722468,
+  "density": 4.531153202802521,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Amm2",
+   "hall": "A 2 -2",
+   "number": 38,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaceqep"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.2385641391025644,
+  "energy_above_hull": 0.2128756325669645,
+  "is_stable": false,
+  "nsites": 13,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi4O8",
+  "chemsys": "Ba-O-Ti",
+  "volume": 230.66869993402358,
+  "density": 3.28834373114659,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "P-31m",
+   "hall": "-P 3 2",
+   "number": 162,
+   "point_group": "-3m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaachpll"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.9951520448611113,
+  "energy_above_hull": 0.3360904961666602,
+  "is_stable": false,
+  "nsites": 24,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi4O7",
+  "chemsys": "Ba-O-Ti",
+  "volume": 397.9797261142814,
+  "density": 3.678329807234047,
+  "symmetry": {
+   "crystal_system": "Hexagonal",
+   "symbol": "P6_3mc",
+   "hall": "P 6c -2c",
+   "number": 186,
+   "point_group": "6mm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaachqpj"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.10027694125,
+  "energy_above_hull": 0.28390539583334906,
+  "is_stable": false,
+  "nsites": 12,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba2Ti3O7",
+  "chemsys": "Ba-O-Ti",
+  "volume": 191.4199065594373,
+  "density": 4.599846408621469,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "Pm",
+   "hall": "P -2y",
+   "number": 6,
+   "point_group": "m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaachqpt"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.1915408179629647,
+  "energy_above_hull": 0.08413104499999946,
+  "is_stable": false,
+  "nsites": 18,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba2Ti2O5",
+  "chemsys": "Ba-O-Ti",
+  "volume": 272.88548997161683,
+  "density": 5.481287324095701,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Imma",
+   "hall": "-I 2b 2",
+   "number": 74,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacjgmr"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.5003711906666672,
+  "energy_above_hull": 0.9790563579999993,
+  "is_stable": false,
+  "nsites": 5,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTiO3",
+  "chemsys": "Ba-O-Ti",
+  "volume": 125.85628830095348,
+  "density": 3.0767215837595354,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Amm2",
+   "hall": "A 2 -2",
+   "number": 38,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacjhcm"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 1.8494000000000002,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.4140965750000003,
+  "energy_above_hull": 0.02469223058822223,
+  "is_stable": false,
+  "nsites": 34,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba4Ti3O10",
+  "chemsys": "Ba-O-Ti",
+  "volume": 488.3889419876664,
+  "density": 5.799798610243066,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Cmce",
+   "hall": "-C 2ac 2",
+   "number": 64,
+   "point_group": "mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacpbmb"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.497040165384625,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.2417080748148184,
+  "energy_above_hull": 0.008088311666664794,
+  "is_stable": false,
+  "nsites": 18,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba3TiO5",
+  "chemsys": "Ba-O-Ti",
+  "volume": 322.9147986761036,
+  "density": 5.552137699085608,
+  "symmetry": {
+   "crystal_system": "Tetragonal",
+   "symbol": "I4/mcm",
+   "hall": "-I 4 2c",
+   "number": 140,
+   "point_group": "4/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrcpj"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.04779999999999962,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.4698323486842115,
+  "energy_above_hull": 0.0031349876759154682,
+  "is_stable": false,
+  "nsites": 38,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi6O12",
+  "chemsys": "Ba-O-Ti",
+  "volume": 458.65380403481475,
+  "density": 4.464188574191667,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/m",
+   "hall": "-C 2y",
+   "number": 12,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrwbm"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.3991856633333333,
+  "energy_above_hull": 0.015167345006254607,
+  "is_stable": false,
+  "nsites": 72,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi6O11",
+  "chemsys": "Ba-O-Ti",
+  "volume": 846.5661120132227,
+  "density": 4.711697729502446,
+  "symmetry": {
+   "crystal_system": "Orthorhombic",
+   "symbol": "Cmc2_1",
+   "hall": "C 2c -2",
+   "number": 36,
+   "point_group": "mm2",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrwjd"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 2.5309,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.4998228855284568,
+  "energy_above_hull": 0.022327045073190277,
+  "is_stable": false,
+  "nsites": 41,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba4Ti11O26",
+  "chemsys": "Ba-O-Ti",
+  "volume": 550.4951683405059,
+  "density": 4.50002315248514,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P1",
+   "hall": "P 1",
+   "number": 1,
+   "point_group": "1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrxhw"
+ },
+ {
+  "ordering": "FiM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -2.6761578941228086,
+  "energy_above_hull": 0.29148752921056964,
+  "is_stable": false,
+  "nsites": 19,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba2Ti4O13",
+  "chemsys": "Ba-O-Ti",
+  "volume": 275.7396467682915,
+  "density": 4.059601073451706,
+  "symmetry": {
+   "crystal_system": "Monoclinic",
+   "symbol": "C2/m",
+   "hall": "-C 2y",
+   "number": 12,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrxir"
+ },
+ {
+  "ordering": "NM",
+  "band_gap": 0.7315423277415953,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -3.298343353846154,
+  "energy_above_hull": 0.20856197423084133,
+  "is_stable": false,
+  "nsites": 13,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba2Ti3O8",
+  "chemsys": "Ba-O-Ti",
+  "volume": 186.22867536972905,
+  "density": 4.870731087489683,
+  "symmetry": {
+   "crystal_system": "Tetragonal",
+   "symbol": "P4/mmm",
+   "hall": "-P 4 2",
+   "number": 123,
+   "point_group": "4/mmm",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaadbrqd"
+ },
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.325911686733333,
+  "energy_above_hull": 7.088119999743014e-05,
+  "is_stable": false,
+  "nsites": 25,
+  "elements": [
+   "Ba",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi8O16",
+  "chemsys": "Ba-O-Ti",
+  "volume": 304.60490524040927,
+  "density": 4.231708274903327,
+  "symmetry": {
+   "crystal_system": "Triclinic",
+   "symbol": "P-1",
+   "hall": "-P 1",
+   "number": 2,
+   "point_group": "-1",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaagasbx"
+ }
+]

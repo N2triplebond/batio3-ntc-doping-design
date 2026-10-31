@@ -1,0 +1,64 @@
+[
+ {
+  "ordering": "FM",
+  "band_gap": 0.0,
+  "is_gap_direct": false,
+  "is_metal": true,
+  "formation_energy_per_atom": -3.331583310313219,
+  "energy_above_hull": 0.016004711475209987,
+  "is_stable": false,
+  "nsites": 60,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "BaTi18Mn3O38",
+  "chemsys": "Ba-Mn-O-Ti",
+  "volume": 674.2810734946431,
+  "density": 4.3631915432180355,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "R-3",
+   "hall": "-R 3",
+   "number": 148,
+   "point_group": "-3",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaaabcwc"
+ },
+ {
+  "ordering": "AFM",
+  "band_gap": 1.2929,
+  "is_gap_direct": false,
+  "is_metal": false,
+  "formation_energy_per_atom": -2.9588772733764386,
+  "energy_above_hull": 0.019383723583304757,
+  "is_stable": false,
+  "nsites": 40,
+  "elements": [
+   "Ba",
+   "Mn",
+   "O",
+   "Ti"
+  ],
+  "formula_pretty": "Ba2TiMnO6",
+  "chemsys": "Ba-Mn-O-Ti",
+  "volume": 541.3396553466218,
+  "density": 5.809227209205672,
+  "symmetry": {
+   "crystal_system": "Trigonal",
+   "symbol": "R-3m",
+   "hall": "-R 3 2\"",
+   "number": 166,
+   "point_group": "2/m",
+   "symprec": 0.1,
+   "angle_tolerance": 5.0,
+   "version": "2.7.0"
+  },
+  "material_id": "mp-aaacrxco"
+ }
+]
