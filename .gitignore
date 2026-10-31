@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+.venv/
+venv/
+*.log
+# 新跑的候选表不入库（results/ 下的是精选结果，显式保留）
+nn_proposals_*.csv
+!results/nn_proposals_*.csv
